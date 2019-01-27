@@ -14,25 +14,25 @@ If your Proposals requires images, the image files should be included in a subdi
 
 ### Problem
 
-Describe the Problem/Need
+High Remittance costs across countries
 
 ### Solution
 
-Propose a solution
+Turant Pay API for quick remittance
 
 ### Market Size
 
-What is the estimated market size
+$50 billion
 
 ### Industry Leaders
 
-Who are the Global Market Segment Leader or competitors?
+Western Union
 
 ### Target Market
 
-Who can use this DApp?
+Anyone who resides in outside country wants to send money back home
 
 ### References
 
-Reference URLs to understand better.
+https://onlinefx.westernunion.com
  
