@@ -27,7 +27,9 @@ $100 billion
 ### Industry Leaders
 
 Western Union
+
 Transferwise
+
 MoneyGram
 
 ### Target Market
@@ -37,6 +39,8 @@ Anyone who resides in outside country wants to send money back home
 ### References
 
 https://onlinefx.westernunion.com
+
 https://transferwise.com/sg/
+
 https://www.moneygram.com/
  
