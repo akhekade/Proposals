@@ -14,19 +14,21 @@ If your Proposals requires images, the image files should be included in a subdi
 
 ### Problem
 
-High Remittance costs across countries
+High Remittance costs across countries. It takes forever to receive a remittance and there is an unreasonable transaction cost incurred to send the money from one country to another.
 
 ### Solution
 
-Turant Pay API for quick remittance
+Able to access the remitted funds instantly through any Forex dealer nearby using a cash method under KYC/AML limits of UISD 3000. 
 
 ### Market Size
 
-$50 billion
+$100 billion
 
 ### Industry Leaders
 
 Western Union
+Transferwise
+MoneyGram
 
 ### Target Market
 
@@ -35,4 +37,6 @@ Anyone who resides in outside country wants to send money back home
 ### References
 
 https://onlinefx.westernunion.com
+https://transferwise.com/sg/
+https://www.moneygram.com/
  
